@@ -1,0 +1,26 @@
+Competitive Analysis: 11/23 - 1 hour(research)
+			    - 0.5 hours(write-up)
+Proposal: 11/23- 0.5 hours(write-up; does not include planning time)
+StoryBoard: 11/23 - 0.5 hours
+Term Project:
+Main Menu- 11/23 0.5 hours
+Characters- 11/23 0.5 hours
+Run functions - 11/23 0.5 hours
+Diseases - 11/28 0.5 hours(planning)
+		0.5 hours(coding)
+	   11/30 - 0.5 hours(finishing planning diseases)
+		 - 0.5 hours(finishing coding diseases)
+		 - 2 hours (character select coding)
+		 - 5 minutes (scrapping all the character select and making default names)
+		total: 3 Hours
+	   11/31 - 1 hour 10 minutes - Storyline intro screen
+		   2hours and 30 minutes - Traveling Screen
+		   1 Hour - Quizes
+		   2 Hours - Town
+		total: ~5.5 hours
+	   11/32 - 1 Hour - Writing quizes
+		   0.5 Hours - Victory and Defeat Screens
+		total: 1.5
+Lifetime Total: 12.5 Hours Coding
+		2.5 Hours Pre-work
+		15 Overall

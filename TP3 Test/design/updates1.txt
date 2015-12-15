@@ -1,0 +1,4 @@
+Changes:
+Quizes are no longer hunting for points but actual trivia questions
+Classes may or may not be a thing
+Most classes and objects moved into side files to clean up code
